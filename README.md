@@ -2,7 +2,7 @@
 Project Portfolio for EDA Analysis and Data Quality Control Initiative for the City of Vancouver 311 Inquiry Volume Dataset.
 # Project 1: EDA Analysis for Inquiry Volume
 The objective of this project is to comprehensively process, clean, and validate the 311 Inquiry Volume dataset to ensure that the data is of high quality, secure, and reliable for analysis. Through Exploratory Data Analysis (EDA), the project will uncover critical patterns and trends within the inquiry data, such as inquiry types, volume fluctuations, and departmental workloads. The project ensures efficient data handling by utilizing AWS services like S3, Glue, and Athena. It enables the City of Vancouver to make informed decisions that enhance public service efficiency and responsiveness based on data-driven insights.
-![P1_Draw.io](https://github.com/Vijaya397/Data-Analyst-Vijaya/blob/main/Project1_Draw.io.jpg)
+![image](https://github.com/Vijaya397/Data-Analyst-Vijaya/blob/main/Project1_Draw.io.jpg)
 EDA Analysis is achieved through
 -  Ingest and store the 311 Inquiry Volume dataset in AWS S3.
 -  Perform data cleaning and transformation using AWS Glue.
